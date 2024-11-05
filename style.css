@@ -7,15 +7,15 @@ body {
     line-height: 1.0;
     overflow-x: hidden;
     word-wrap: break-word;
-    background-color: #1E1E2E;
+    background-color: #181825;
 }
 
 #text {
-    color: #BAC2DE;
-    font-family: 'Cascadia Code', 'Lucida Console', 'Courier New', monospace;
-    font-size: 100%;
-    font-weight: 300;
-    line-height: 1.25em;
+    color: #A6ADC8;
+    font-family: system-ui, sans-serif;
+    font-size: 1.02rem;
+    font-weight: 400;
+    line-height: 1.5em;
     padding: 0.25em 0.5em;
 }
 
@@ -26,19 +26,19 @@ a:link {
 }
 
 a:visited {
-  color: #8AADF4;
+  color: #B2C8F6;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #8AADF4;
+  color: #B2C8F6;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:active {
-  color: #8caaee;
+  color: #B2C8F6;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
